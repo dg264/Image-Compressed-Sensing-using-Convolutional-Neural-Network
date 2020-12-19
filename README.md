@@ -23,3 +23,31 @@ reconstruction network and a non-linear deep reconstruction network based
 on residual learning. The reconstruction network can effectively utilize inter-block
 information and avoid blocking artifacts.
 
+# Compressed-sensing-using-Convolutional-Neural-Network-Architecture
+![Compressed-sensing-using-Convolutional-Neural-Network-Architecture](/Static/CS%20Net%20Framework.PNG)
+
+# Results
+We are getting very good results with high PSNR and SSIM values on test images
+
+Average PSNR - 25.402
+
+Average SSIM - 0.543
+
+Left Image represents input image
+
+Right Image represents regenerated image after compressed sensing
+
+![Results](/Static/predicted45000.PNG)
+
+![Results](/Static/Capture2.PNG)
+
+![Results](/Static/Capture3.PNG)
+
+![Results](/Static/Capture4.PNG)
+
+# Reference
+We referred Image Compressed Sensing using Convolutional Neural Network by Wuzhen Shi , Feng Jiang and Debin Zhao IEEE 2019.
+
+Research paper is referred below :-
+
+![Reference](/Static/Image%20Compressed%20Sensing%20Using%20Convolutional%20Neural%20Network%20(2).pdf)
